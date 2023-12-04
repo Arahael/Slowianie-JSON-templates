@@ -5,6 +5,7 @@ To use, one needs to have Custom System Builder and WarpGate installed in their 
 System includes Character card template, Monster card template, items templates.
 
 Items are added to Character card by drag and drop. When Character card has weapon, options to roll appear.
+
 ------------------------------------------------------------
 Templatki do FoundryVTT oraz systemu Custom System Builder, umożliwiające grę w Słowianie - Mitologiczna Gra Fabularna
 
