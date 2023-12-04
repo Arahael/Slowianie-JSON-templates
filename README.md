@@ -6,8 +6,8 @@ System includes Character card template, Monster card template, items templates.
 
 Items are added to Character card by drag and drop. When Character card has weapon, options to roll appear.
 
-=========================================================
-</br>
+---------------
+
 Templatki do FoundryVTT oraz systemu Custom System Builder, umożliwiające grę w Słowianie - Mitologiczna Gra Fabularna
 
 Do poprawnego działania, templatki wymagają zainstalowanego na FoundryVTT systemu Custom System Builder oraz modułu WarpGate.
